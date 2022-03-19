@@ -1,5 +1,5 @@
-# DEVCIT-JS
-Практическая работа №4
+# DEVCIT-CSHARP
+Практическая работа №3
 ======================
 
 ## Организация работ
@@ -11,7 +11,7 @@
 ```
 ...
 |
-|--devcit-js
+|--devcit-csharp
 |----practice-01-task-01
 |----practice-01-task-02
 |----...
@@ -28,13 +28,13 @@
 
 ## Ключевые инструменты разработчика
 
-* [Google Chrome](https://www.google.com/chrome)
 * [Visual Studio Code](https://code.visualstudio.com)
 
-### Альтернативная среда разработки (по желанию)
+### Альтернативные среды разработки (по желанию)
 
-* [IntelliJ WebStorm](https://www.jetbrains.com/webstorm)
-
+* [Visual Studio](https://visualstudio.microsoft.com)
+* [IntelliJ Rider](https://www.jetbrains.com/rider)
+* 
 ## Задание №1: Среднее арифметическое
 
 Программа спрашивает в цикле у пользователя оценки за предметы. Значение 0
