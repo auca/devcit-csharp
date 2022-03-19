@@ -34,7 +34,7 @@
 
 * [Visual Studio](https://visualstudio.microsoft.com)
 * [IntelliJ Rider](https://www.jetbrains.com/rider)
-* 
+
 ## Задание №1: Среднее арифметическое
 
 Программа спрашивает в цикле у пользователя оценки за предметы. Значение 0
