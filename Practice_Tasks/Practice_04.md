@@ -121,3 +121,25 @@
 ### Пример работы программы
 
 ![Gradient](https://i.imgur.com/70XUgkS.png)
+
+## ДоЗадание №5: Градиент
+
+Программа рисует фиксированное количество закрашенных окружностей в центре экрана.
+
+### Пример работы программы
+
+![Gradient](https://i.imgur.com/70XUgkS.png)
+
+## Домашнее задание №1-5
+
+Создайте графические программы, которые на весь экран рисуют следующие изображения процедурно.
+
+![Hometask 1](https://i.imgur.com/K7oppFT.png)
+![Hometask 2](https://i.imgur.com/attBZJ0.png)
+![Hometask 3](https://i.imgur.com/JZcal5I.png)
+![Hometask 4](https://i.imgur.com/GinKf3T.png)
+![Hometask 5](https://i.imgur.com/kKRaogt.png)
+
+### URI
+
+Задания на тему Repetition <https://www.beecrowd.com.br/judge/en/problems/index/1?page=2>
